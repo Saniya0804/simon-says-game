@@ -18,6 +18,6 @@ CSS
 JavaScript
 
 📂 Files
-index.html
-style.css
-script.js
+simon.html
+simon.css
+simon.js
